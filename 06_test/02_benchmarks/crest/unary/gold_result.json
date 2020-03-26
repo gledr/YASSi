@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "unary%main%register%a",
+			"name" : "mem_63",
+			"solution" : 1,
+			"value" : "2147483644"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "unary%main%register%a",
+			"name" : "mem_63",
+			"solution" : 2,
+			"value" : "1040187392"
+		}
+	}
+]

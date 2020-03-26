@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "align_struct%main%register%data+2",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "5"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "align_struct%main%register%data+2",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "-6"
+		}
+	}
+]

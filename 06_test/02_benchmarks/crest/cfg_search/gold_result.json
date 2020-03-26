@@ -1,0 +1,650 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 1,
+			"value" : "40"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 2,
+			"value" : "40"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 3,
+			"value" : "40"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 4,
+			"value" : "40"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 5,
+			"value" : "40"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 6,
+			"value" : "40"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 7,
+			"value" : "40"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 8,
+			"value" : "40"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 9,
+			"value" : "40"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 10,
+			"value" : "40"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 11,
+			"value" : "40"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 12,
+			"value" : "40"
+		}
+	},
+	{
+		"result_12" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 13,
+			"value" : "40"
+		}
+	},
+	{
+		"result_13" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 14,
+			"value" : "40"
+		}
+	},
+	{
+		"result_14" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 15,
+			"value" : "40"
+		}
+	},
+	{
+		"result_15" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 16,
+			"value" : "40"
+		}
+	},
+	{
+		"result_16" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 17,
+			"value" : "40"
+		}
+	},
+	{
+		"result_17" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 18,
+			"value" : "40"
+		}
+	},
+	{
+		"result_18" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 19,
+			"value" : "40"
+		}
+	},
+	{
+		"result_19" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 20,
+			"value" : "40"
+		}
+	},
+	{
+		"result_20" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 21,
+			"value" : "40"
+		}
+	},
+	{
+		"result_21" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 22,
+			"value" : "40"
+		}
+	},
+	{
+		"result_22" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 23,
+			"value" : "40"
+		}
+	},
+	{
+		"result_23" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 24,
+			"value" : "40"
+		}
+	},
+	{
+		"result_24" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 25,
+			"value" : "40"
+		}
+	},
+	{
+		"result_25" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 26,
+			"value" : "40"
+		}
+	},
+	{
+		"result_26" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 27,
+			"value" : "40"
+		}
+	},
+	{
+		"result_27" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 28,
+			"value" : "40"
+		}
+	},
+	{
+		"result_28" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 29,
+			"value" : "40"
+		}
+	},
+	{
+		"result_29" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 30,
+			"value" : "40"
+		}
+	},
+	{
+		"result_30" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 31,
+			"value" : "40"
+		}
+	},
+	{
+		"result_31" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 32,
+			"value" : "40"
+		}
+	},
+	{
+		"result_32" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 33,
+			"value" : "40"
+		}
+	},
+	{
+		"result_33" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 34,
+			"value" : "40"
+		}
+	},
+	{
+		"result_34" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 35,
+			"value" : "40"
+		}
+	},
+	{
+		"result_35" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 36,
+			"value" : "40"
+		}
+	},
+	{
+		"result_36" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 40,
+			"value" : "-41"
+		}
+	},
+	{
+		"result_37" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 42,
+			"value" : "0"
+		}
+	},
+	{
+		"result_38" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 44,
+			"value" : "0"
+		}
+	},
+	{
+		"result_39" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 46,
+			"value" : "0"
+		}
+	},
+	{
+		"result_40" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 47,
+			"value" : "0"
+		}
+	},
+	{
+		"result_41" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 48,
+			"value" : "0"
+		}
+	},
+	{
+		"result_42" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 49,
+			"value" : "0"
+		}
+	},
+	{
+		"result_43" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 50,
+			"value" : "0"
+		}
+	},
+	{
+		"result_44" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 51,
+			"value" : "0"
+		}
+	},
+	{
+		"result_45" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 52,
+			"value" : "0"
+		}
+	},
+	{
+		"result_46" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 53,
+			"value" : "0"
+		}
+	},
+	{
+		"result_47" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 54,
+			"value" : "0"
+		}
+	},
+	{
+		"result_48" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 55,
+			"value" : "0"
+		}
+	},
+	{
+		"result_49" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 56,
+			"value" : "0"
+		}
+	},
+	{
+		"result_50" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 57,
+			"value" : "0"
+		}
+	},
+	{
+		"result_51" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 58,
+			"value" : "0"
+		}
+	},
+	{
+		"result_52" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 59,
+			"value" : "0"
+		}
+	},
+	{
+		"result_53" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 60,
+			"value" : "0"
+		}
+	},
+	{
+		"result_54" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 61,
+			"value" : "0"
+		}
+	},
+	{
+		"result_55" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 62,
+			"value" : "0"
+		}
+	},
+	{
+		"result_56" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 63,
+			"value" : "0"
+		}
+	},
+	{
+		"result_57" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 64,
+			"value" : "0"
+		}
+	},
+	{
+		"result_58" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 65,
+			"value" : "0"
+		}
+	},
+	{
+		"result_59" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 66,
+			"value" : "0"
+		}
+	},
+	{
+		"result_60" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 67,
+			"value" : "0"
+		}
+	},
+	{
+		"result_61" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 68,
+			"value" : "0"
+		}
+	},
+	{
+		"result_62" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 69,
+			"value" : "0"
+		}
+	},
+	{
+		"result_63" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 70,
+			"value" : "0"
+		}
+	},
+	{
+		"result_64" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 71,
+			"value" : "0"
+		}
+	},
+	{
+		"result_65" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 72,
+			"value" : "0"
+		}
+	},
+	{
+		"result_66" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 73,
+			"value" : "0"
+		}
+	},
+	{
+		"result_67" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 74,
+			"value" : "0"
+		}
+	},
+	{
+		"result_68" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 75,
+			"value" : "0"
+		}
+	},
+	{
+		"result_69" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 76,
+			"value" : "0"
+		}
+	},
+	{
+		"result_70" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 77,
+			"value" : "0"
+		}
+	},
+	{
+		"result_71" : 
+		{
+			"hint" : "cfg_search_test%main%register%c",
+			"name" : "mem_46",
+			"solution" : 78,
+			"value" : "0"
+		}
+	}
+]

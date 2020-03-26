@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "main%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "41"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "main%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "main%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-42"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "main%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

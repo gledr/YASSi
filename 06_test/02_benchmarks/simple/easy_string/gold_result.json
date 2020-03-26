@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "easy_string%global%.str",
+			"name" : "mem_0",
+			"solution" : 1,
+			"value" : "100"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "easy_string%global%.str",
+			"name" : "mem_0",
+			"solution" : 2,
+			"value" : "-102"
+		}
+	}
+]

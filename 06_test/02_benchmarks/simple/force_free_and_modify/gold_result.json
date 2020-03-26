@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "force_free_and_modify%global%a",
+			"name" : "mem_0",
+			"solution" : 1,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "force_free_and_modify%global%a",
+			"name" : "mem_0",
+			"solution" : 2,
+			"value" : "7"
+		}
+	}
+]

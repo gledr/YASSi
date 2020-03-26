@@ -1,0 +1,155 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 5,
+			"value" : "2"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 6,
+			"value" : "2"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 8,
+			"value" : "0"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 9,
+			"value" : "3"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 10,
+			"value" : "3"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 12,
+			"value" : "0"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 13,
+			"value" : "4"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 14,
+			"value" : "4"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 15,
+			"value" : "4"
+		}
+	},
+	{
+		"result_12" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 16,
+			"value" : "0"
+		}
+	},
+	{
+		"result_13" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 17,
+			"value" : "0"
+		}
+	},
+	{
+		"result_14" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 18,
+			"value" : "0"
+		}
+	},
+	{
+		"result_15" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 19,
+			"value" : "0"
+		}
+	},
+	{
+		"result_16" : 
+		{
+			"hint" : "recursive%main%register%x",
+			"name" : "mem_1",
+			"solution" : 20,
+			"value" : "0"
+		}
+	}
+]

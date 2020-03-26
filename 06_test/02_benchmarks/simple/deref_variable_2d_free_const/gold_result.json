@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index",
+			"name" : "mem_17",
+			"solution" : 1,
+			"value" : "3"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index",
+			"name" : "mem_17",
+			"solution" : 2,
+			"value" : "2"
+		}
+	}
+]

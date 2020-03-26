@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "wired_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "10"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "wired_bool%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "wired_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-11"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "wired_bool%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	}
+]

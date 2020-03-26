@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "non_annotated_n%main%register%c",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "non_annotated_n%main%register%c",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "non_annotated_n%main%register%c",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "non_annotated_n%main%register%c",
+			"name" : "mem_1",
+			"solution" : 6,
+			"value" : "0"
+		}
+	}
+]

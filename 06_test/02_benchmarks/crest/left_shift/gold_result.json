@@ -1,0 +1,74 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "left_shift%main%register%x",
+			"name" : "mem_63",
+			"solution" : 1,
+			"value" : "21"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "left_shift%main%register%x",
+			"name" : "mem_63",
+			"solution" : 2,
+			"value" : "21"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "left_shift%main%register%y",
+			"name" : "mem_64",
+			"solution" : 2,
+			"value" : "15"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "left_shift%main%register%z",
+			"name" : "mem_65",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "left_shift%main%register%x",
+			"name" : "mem_63",
+			"solution" : 3,
+			"value" : "21"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "left_shift%main%register%y",
+			"name" : "mem_64",
+			"solution" : 3,
+			"value" : "16"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "left_shift%main%register%z",
+			"name" : "mem_65",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "left_shift%main%register%x",
+			"name" : "mem_63",
+			"solution" : 4,
+			"value" : "1073741802"
+		}
+	}
+]

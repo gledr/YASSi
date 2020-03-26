@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "main%Klasse::calc%register%a",
+			"name" : "mem_17",
+			"solution" : 1,
+			"value" : "30"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "main%Klasse::calc%register%a",
+			"name" : "mem_17",
+			"solution" : 2,
+			"value" : "-31"
+		}
+	}
+]

@@ -1,0 +1,13 @@
+
+int forest_func(int a){
+	return a;
+}
+
+int main() {
+	int val;
+    
+	int (*func_pointer)(int) = forest_func;
+
+	if(func_pointer(val)) return 0;
+	else return 1;
+}

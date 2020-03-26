@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "array_struct_global%global%a+23",
+			"name" : "mem_23",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "array_struct_global%global%a+23",
+			"name" : "mem_23",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

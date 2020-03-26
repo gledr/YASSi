@@ -1,0 +1,110 @@
+[
+	{
+		"0" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"1" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"2" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 2,
+			"value" : "-23"
+		}
+	},
+	{
+		"3" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "-23"
+		}
+	},
+	{
+		"4" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 3,
+			"value" : "-127"
+		}
+	},
+	{
+		"5" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 3,
+			"value" : "-127"
+		}
+	},
+	{
+		"6" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 4,
+			"value" : "121"
+		}
+	},
+	{
+		"7" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 4,
+			"value" : "121"
+		}
+	},
+	{
+		"8" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 5,
+			"value" : "105"
+		}
+	},
+	{
+		"9" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 5,
+			"value" : "105"
+		}
+	},
+	{
+		"10" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bu",
+			"name" : "mem_3",
+			"solution" : 6,
+			"value" : "-65"
+		}
+	},
+	{
+		"11" : 
+		{
+			"hint" : "unsigned_uneq%main%register%bs",
+			"name" : "mem_4",
+			"solution" : 6,
+			"value" : "64"
+		}
+	}
+]

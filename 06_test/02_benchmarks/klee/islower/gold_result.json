@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "islower%main%register%c",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "97"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "islower%main%register%c",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "99"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "islower%main%register%c",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "123"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "islower%main%register%c",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

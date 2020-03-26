@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "interleave_bits%main%register%y",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "-1073741825"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "interleave_bits%main%register%i",
+			"name" : "mem_3",
+			"solution" : 1,
+			"value" : "30"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "interleave_bits%main%register%y",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "interleave_bits%main%register%i",
+			"name" : "mem_3",
+			"solution" : 2,
+			"value" : "31"
+		}
+	}
+]

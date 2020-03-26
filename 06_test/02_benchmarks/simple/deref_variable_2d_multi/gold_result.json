@@ -1,0 +1,74 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index1",
+			"name" : "mem_60",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index1",
+			"name" : "mem_60",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index2",
+			"name" : "mem_61",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index1",
+			"name" : "mem_60",
+			"solution" : 3,
+			"value" : "1"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index2",
+			"name" : "mem_61",
+			"solution" : 3,
+			"value" : "-2147483648"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index1",
+			"name" : "mem_60",
+			"solution" : 4,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index1",
+			"name" : "mem_60",
+			"solution" : 6,
+			"value" : "-2147483648"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "deref_variable_2d%main%register%index2",
+			"name" : "mem_61",
+			"solution" : 6,
+			"value" : "-2147483648"
+		}
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "division%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "9"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "division%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "2"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "division%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-2145419040"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "division%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "1072709520"
+		}
+	}
+]

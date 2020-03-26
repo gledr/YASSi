@@ -1,0 +1,5 @@
+add_subdirectory(wrapper)
+add_subdirectory(variables)
+add_subdirectory(solver)
+add_subdirectory(memory)
+add_subdirectory(intrinsics)

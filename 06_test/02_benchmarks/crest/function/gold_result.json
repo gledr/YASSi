@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "function%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "3"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "function%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "rightshift%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "20"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "rightshift%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "4294967274"
+		}
+	}
+]

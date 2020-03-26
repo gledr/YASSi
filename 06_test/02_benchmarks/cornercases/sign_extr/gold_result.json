@@ -1,0 +1,38 @@
+[
+	{
+		"0" : 
+		{
+			"hint" : "sign_extr%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "255"
+		}
+	},
+	{
+		"1" : 
+		{
+			"hint" : "sign_extr%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-2147483393"
+		}
+	},
+	{
+		"2" : 
+		{
+			"hint" : "sign_extr%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "255"
+		}
+	},
+	{
+		"3" : 
+		{
+			"hint" : "sign_extr%main%register%a",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

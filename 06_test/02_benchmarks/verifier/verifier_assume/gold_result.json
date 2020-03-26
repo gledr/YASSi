@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "verifier_assume%main%register%i",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "verifier_assume%main%register%i",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "verifier_assume%main%register%i",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "verifier_assume%main%register%i",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "2"
+		}
+	}
+]

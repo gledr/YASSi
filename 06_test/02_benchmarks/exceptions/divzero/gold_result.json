@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "divzero%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"exception_1" : 
+		{
+			"file" : "divzero",
+			"id" : "0",
+			"location" : "3",
+			"type" : "division by zero"
+		}
+	}
+]

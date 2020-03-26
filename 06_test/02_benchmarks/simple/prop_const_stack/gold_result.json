@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "prop_const_stack%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "3"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "prop_const_stack%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "-4"
+		}
+	}
+]

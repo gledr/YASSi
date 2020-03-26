@@ -1,0 +1,74 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "structure_return%main%register%b+1",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "137"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "structure_return%symbolic_banana%register%retval",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "structure_return%main%register%b+1",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "137"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "structure_return%symbolic_banana%register%retval",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "structure_return%main%register%b+1",
+			"name" : "mem_2",
+			"solution" : 3,
+			"value" : "137"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "structure_return%symbolic_banana%register%retval",
+			"name" : "mem_4",
+			"solution" : 3,
+			"value" : "1073741824"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "structure_return%main%register%b+1",
+			"name" : "mem_2",
+			"solution" : 4,
+			"value" : "136"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "structure_return%symbolic_banana%register%retval",
+			"name" : "mem_4",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

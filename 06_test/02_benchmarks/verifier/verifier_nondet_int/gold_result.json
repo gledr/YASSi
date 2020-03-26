@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "verifier_nondet_int%main%register%return_of___VERIFIER_nondet_int",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "verifier_nondet_int%main%register%return_of___VERIFIER_nondet_int",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

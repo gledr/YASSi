@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "fnarray%global%c+4",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "fnarray%global%c+4",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	}
+]

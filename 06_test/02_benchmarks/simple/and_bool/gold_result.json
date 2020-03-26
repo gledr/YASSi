@@ -1,0 +1,56 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "and_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "and_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "and_bool%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "and_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "1"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "and_bool%main%register%b",
+			"name" : "mem_2",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "and_bool%main%register%a",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "main%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"exception_1" : 
+		{
+			"file" : "main",
+			"id" : "0",
+			"location" : "5",
+			"type" : "remainder_by_zero"
+		}
+	}
+]

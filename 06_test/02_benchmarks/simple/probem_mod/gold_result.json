@@ -1,0 +1,56 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "problem_mod%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "problem_mod%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-21395456"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "problem_mod%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "8192"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "problem_mod%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "problem_mod%main%register%b",
+			"name" : "mem_2",
+			"solution" : 3,
+			"value" : "2130706432"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "problem_mod%main%register%b",
+			"name" : "mem_2",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

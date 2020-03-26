@@ -1,0 +1,1 @@
+project(yassi_types)

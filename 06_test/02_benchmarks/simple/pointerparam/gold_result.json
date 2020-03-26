@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "pointerparam%main%register%a+32",
+			"name" : "mem_33",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "pointerparam%main%register%a+32",
+			"name" : "mem_33",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	}
+]

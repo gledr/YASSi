@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "unsigned%main%register%a",
+			"name" : "mem_63",
+			"solution" : 1,
+			"value" : "2147483648"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "unsigned%main%register%a",
+			"name" : "mem_63",
+			"solution" : 2,
+			"value" : "4294967295"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "unsigned%main%register%a",
+			"name" : "mem_63",
+			"solution" : 3,
+			"value" : "3221175352"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "unsigned%main%register%a",
+			"name" : "mem_63",
+			"solution" : 4,
+			"value" : "0"
+		}
+	}
+]

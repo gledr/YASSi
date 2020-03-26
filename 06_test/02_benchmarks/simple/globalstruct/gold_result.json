@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "globalstruct%global%a+3",
+			"name" : "mem_3",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "globalstruct%global%a+3",
+			"name" : "mem_3",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

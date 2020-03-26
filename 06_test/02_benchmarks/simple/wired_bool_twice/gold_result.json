@@ -1,0 +1,110 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "wired_bool_twice%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "wired_bool_twice%main%register%b",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "wired_bool_twice%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "wired_bool_twice%main%register%b",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "wired_bool_twice%main%register%c",
+			"name" : "mem_3",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "wired_bool_twice%main%register%d",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "wired_bool_twice%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "wired_bool_twice%main%register%b",
+			"name" : "mem_2",
+			"solution" : 3,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "wired_bool_twice%main%register%c",
+			"name" : "mem_3",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "wired_bool_twice%main%register%d",
+			"name" : "mem_4",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "wired_bool_twice%main%register%a",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "wired_bool_twice%main%register%b",
+			"name" : "mem_2",
+			"solution" : 4,
+			"value" : "-1"
+		}
+	}
+]

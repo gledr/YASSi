@@ -1,0 +1,11 @@
+[
+	{
+		"exception_0" : 
+		{
+			"file" : "alloc_outofbounds",
+			"id" : "0",
+			"location" : "5",
+			"type" : "out_of_bounds"
+		}
+	}
+]

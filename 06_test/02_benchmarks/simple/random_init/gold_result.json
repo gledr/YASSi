@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "random_init%main%register%seed",
+			"name" : "mem_8",
+			"solution" : 1,
+			"value" : "49704"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "random_init%main%register%seed",
+			"name" : "mem_8",
+			"solution" : 2,
+			"value" : "81"
+		}
+	}
+]

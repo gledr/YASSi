@@ -1,0 +1,18 @@
+[
+	{
+		"0" : 
+		{
+			"register" : "cmp_str_zero%main%register%string",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"1" : 
+		{
+			"register" : "cmp_str_zero%main%register%string",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	}
+]

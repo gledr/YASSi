@@ -1,0 +1,56 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "struct%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "4"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "struct%main%register%a+1",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "struct%main%register%a+3",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "struct%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "3"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "struct%main%register%a+1",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "struct%main%register%a+3",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

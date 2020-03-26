@@ -1,0 +1,74 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "struct_ret%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "struct_ret%main%register%a+1",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "struct_ret%main%register%a+2",
+			"name" : "mem_3",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "struct_ret%main%register%a+3",
+			"name" : "mem_4",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "struct_ret%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "struct_ret%main%register%a+1",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "struct_ret%main%register%a+2",
+			"name" : "mem_3",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "struct_ret%main%register%a+3",
+			"name" : "mem_4",
+			"solution" : 2,
+			"value" : "0"
+		}
+	}
+]

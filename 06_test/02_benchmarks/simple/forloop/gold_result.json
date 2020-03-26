@@ -1,0 +1,92 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "2"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 5,
+			"value" : "2"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 6,
+			"value" : "6"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 7,
+			"value" : "3"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 8,
+			"value" : "6"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 9,
+			"value" : "6"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "forloop%main%register%a",
+			"name" : "mem_1",
+			"solution" : 10,
+			"value" : "6"
+		}
+	}
+]

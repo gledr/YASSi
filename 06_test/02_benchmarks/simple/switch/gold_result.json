@@ -1,0 +1,74 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-2"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "2"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 5,
+			"value" : "3"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 6,
+			"value" : "0"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 7,
+			"value" : "4"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "switch%main%register%a",
+			"name" : "mem_1",
+			"solution" : 8,
+			"value" : "0"
+		}
+	}
+]

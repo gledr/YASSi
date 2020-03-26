@@ -1,0 +1,362 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 1,
+			"value" : "19"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 2,
+			"value" : "19"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 3,
+			"value" : "19"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 4,
+			"value" : "19"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 5,
+			"value" : "19"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 6,
+			"value" : "19"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 7,
+			"value" : "19"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 8,
+			"value" : "19"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 9,
+			"value" : "19"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 10,
+			"value" : "19"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 11,
+			"value" : "19"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 12,
+			"value" : "-20"
+		}
+	},
+	{
+		"result_12" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 13,
+			"value" : "14"
+		}
+	},
+	{
+		"result_13" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 14,
+			"value" : "14"
+		}
+	},
+	{
+		"result_14" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 15,
+			"value" : "14"
+		}
+	},
+	{
+		"result_15" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 16,
+			"value" : "14"
+		}
+	},
+	{
+		"result_16" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 17,
+			"value" : "14"
+		}
+	},
+	{
+		"result_17" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 18,
+			"value" : "14"
+		}
+	},
+	{
+		"result_18" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 19,
+			"value" : "14"
+		}
+	},
+	{
+		"result_19" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 20,
+			"value" : "14"
+		}
+	},
+	{
+		"result_20" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 21,
+			"value" : "14"
+		}
+	},
+	{
+		"result_21" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 22,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_22" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 23,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_23" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 24,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_24" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 25,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_25" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 26,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_26" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 27,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_27" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 28,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_28" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 29,
+			"value" : "-4"
+		}
+	},
+	{
+		"result_29" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 30,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_30" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 31,
+			"value" : "7"
+		}
+	},
+	{
+		"result_31" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 32,
+			"value" : "7"
+		}
+	},
+	{
+		"result_32" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 33,
+			"value" : "7"
+		}
+	},
+	{
+		"result_33" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 34,
+			"value" : "7"
+		}
+	},
+	{
+		"result_34" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 35,
+			"value" : "7"
+		}
+	},
+	{
+		"result_35" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 36,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_36" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 37,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_37" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 38,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_38" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 39,
+			"value" : "-2147483634"
+		}
+	},
+	{
+		"result_39" : 
+		{
+			"hint" : "cfg_test%main%register%a",
+			"name" : "mem_97",
+			"solution" : 40,
+			"value" : "-2147483634"
+		}
+	}
+]

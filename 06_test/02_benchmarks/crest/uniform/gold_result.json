@@ -1,0 +1,182 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 1,
+			"value" : "5"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 2,
+			"value" : "5"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 2,
+			"value" : "19"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 3,
+			"value" : "5"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 3,
+			"value" : "19"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "uniform_test%main%register%c",
+			"name" : "mem_27",
+			"solution" : 3,
+			"value" : "7"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 4,
+			"value" : "5"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 4,
+			"value" : "19"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "uniform_test%main%register%c",
+			"name" : "mem_27",
+			"solution" : 4,
+			"value" : "7"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "uniform_test%main%register%d",
+			"name" : "mem_28",
+			"solution" : 4,
+			"value" : "4"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 5,
+			"value" : "5"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 5,
+			"value" : "19"
+		}
+	},
+	{
+		"result_12" : 
+		{
+			"hint" : "uniform_test%main%register%c",
+			"name" : "mem_27",
+			"solution" : 5,
+			"value" : "7"
+		}
+	},
+	{
+		"result_13" : 
+		{
+			"hint" : "uniform_test%main%register%d",
+			"name" : "mem_28",
+			"solution" : 5,
+			"value" : "0"
+		}
+	},
+	{
+		"result_14" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 6,
+			"value" : "5"
+		}
+	},
+	{
+		"result_15" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 6,
+			"value" : "19"
+		}
+	},
+	{
+		"result_16" : 
+		{
+			"hint" : "uniform_test%main%register%c",
+			"name" : "mem_27",
+			"solution" : 6,
+			"value" : "0"
+		}
+	},
+	{
+		"result_17" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 7,
+			"value" : "5"
+		}
+	},
+	{
+		"result_18" : 
+		{
+			"hint" : "uniform_test%main%register%b",
+			"name" : "mem_26",
+			"solution" : 7,
+			"value" : "0"
+		}
+	},
+	{
+		"result_19" : 
+		{
+			"hint" : "uniform_test%main%register%a",
+			"name" : "mem_25",
+			"solution" : 8,
+			"value" : "-6"
+		}
+	}
+]

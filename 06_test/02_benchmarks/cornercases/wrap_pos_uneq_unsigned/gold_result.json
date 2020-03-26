@@ -1,0 +1,38 @@
+[
+	{
+		"0" : 
+		{
+			"hint" : "wrap_pos_uneq_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"1" : 
+		{
+			"hint" : "wrap_pos_uneq_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"2" : 
+		{
+			"hint" : "wrap_pos_uneq_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 3,
+			"value" : "-120"
+		}
+	},
+	{
+		"3" : 
+		{
+			"hint" : "wrap_pos_uneq_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 4,
+			"value" : "8"
+		}
+	}
+]

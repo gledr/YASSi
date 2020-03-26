@@ -1,0 +1,20 @@
+[
+	{
+		"0" : 
+		{
+			"hint" : "wrap_pos_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 1,
+			"value" : "10"
+		}
+	},
+	{
+		"1" : 
+		{
+			"hint" : "wrap_pos_unsigned%main%register%i",
+			"name" : "mem_2",
+			"solution" : 2,
+			"value" : "-11"
+		}
+	}
+]

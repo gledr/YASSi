@@ -1,0 +1,20 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "deref_variable_2d_const_free%main%register%index",
+			"name" : "mem_5",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "deref_variable_2d_const_free%main%register%index",
+			"name" : "mem_5",
+			"solution" : 2,
+			"value" : "-16777217"
+		}
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "divzero_offset%main%register%a",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "10"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "divzero_offset%main%register%a",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "-11"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "divzero_offset%main%register%a",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "-11"
+		}
+	},
+	{
+		"exception_3" : 
+		{
+			"file" : "divzero_offset",
+			"id" : "2",
+			"location" : "25",
+			"type" : "division by zero"
+		}
+	}
+]

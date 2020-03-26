@@ -1,0 +1,38 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "for_infinite_loop_1%main%register%x",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "for_infinite_loop_1%main%register%x",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "for_infinite_loop_1%main%register%x",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "for_infinite_loop_1%main%register%x",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "-2147483647"
+		}
+	}
+]

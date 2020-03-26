@@ -1,0 +1,110 @@
+[
+	{
+		"result_0" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 1,
+			"value" : "-1"
+		}
+	},
+	{
+		"result_1" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 1,
+			"value" : "0"
+		}
+	},
+	{
+		"result_2" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_3" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 2,
+			"value" : "1"
+		}
+	},
+	{
+		"result_4" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 3,
+			"value" : "1"
+		}
+	},
+	{
+		"result_5" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 3,
+			"value" : "0"
+		}
+	},
+	{
+		"result_6" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 4,
+			"value" : "0"
+		}
+	},
+	{
+		"result_7" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 4,
+			"value" : "0"
+		}
+	},
+	{
+		"result_8" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 5,
+			"value" : "0"
+		}
+	},
+	{
+		"result_9" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 5,
+			"value" : "1"
+		}
+	},
+	{
+		"result_10" : 
+		{
+			"hint" : "2cond%main%register%_a",
+			"name" : "mem_0",
+			"solution" : 6,
+			"value" : "0"
+		}
+	},
+	{
+		"result_11" : 
+		{
+			"hint" : "2cond%main%register%_b",
+			"name" : "mem_1",
+			"solution" : 6,
+			"value" : "0"
+		}
+	}
+]
