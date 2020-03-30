@@ -13,6 +13,7 @@ if [ ! -d llvm-5.0.0.src ]; then
     cd llvm-5.0.0.src
     mkdir build
     cd build
+    export CXX=clang++
     cmake  -DCMAKE_INSTALL_PREFIX=../../../ ..
     make -j 2
     make 

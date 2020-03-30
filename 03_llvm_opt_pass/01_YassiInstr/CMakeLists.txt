@@ -81,7 +81,7 @@ add_llvm_loadable_module(YassiInstr
   intrinsics_gen
   )
   
-target_link_libraries(ForestInstr 
+target_link_libraries(YassiInstr 
     ${BASE_PATH}/05_third_party/lib/libsqlite3.a
 )
 

@@ -1,7 +1,7 @@
-#ifndef FOREST_FORCE_ASSERTION_PASS_HPP
-#define FOREST_FORCE_ASSERTION_PASS_HPP
+#ifndef YASSI_FORCE_ASSERTION_PASS_HPP
+#define YASSI_FORCE_ASSERTION_PASS_HPP
 
-#ifdef FOREST_DEBUG_PASS
+#ifdef YASSI_DEBUG_PASS
     #include "yassi_basepass.hpp"
 #else 
     #include "../../00_GenericPasses/01_src/yassi_basepass.hpp"
@@ -23,4 +23,4 @@ private:
 };
 }
 
-#endif /* FOREST_FORCE_ASSERTION_PASS_HPP */
+#endif /* YASSI_FORCE_ASSERTION_PASS_HPP */

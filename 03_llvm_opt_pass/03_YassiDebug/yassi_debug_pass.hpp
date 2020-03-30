@@ -1,7 +1,7 @@
-#ifndef FOREST_DEBUG_PASS_HPP
-#define FOREST_DEBUG_PASS_HPP
+#ifndef YASSI_DEBUG_PASS_HPP
+#define YASSI_DEBUG_PASS_HPP
 
-#ifdef FOREST_DEBUG_PASS
+#ifdef YASSI_DEBUG_PASS
     #include "yassi_basepass.hpp"
     #include "yassi_force.hpp"
     #include "yassi_selectvariables.hpp"
@@ -24,4 +24,4 @@ public:
 
 }
 
-#endif /* FOREST_DEBUG_PASS_HPP */
+#endif /* YASSI_DEBUG_PASS_HPP */

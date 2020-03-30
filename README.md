@@ -1,4 +1,4 @@
-# YASSi Nextgen
+# YASSi Yet Another Symbolic Simulator
 
 
 
@@ -23,7 +23,7 @@ YASSi is developed using Arch Linux. However, in order to check its compatibilit
 
 
 
-The development of YASSi is based at the Johannes Kepler University Linz in cooperation with Mr. Pablo Gonzales de Aledo which first started the development of YASSi.
+The development of YASSi is based at the Johannes Kepler University Linz in cooperation with Mr. Pablo Gonzales de Aledo.
 
 
 

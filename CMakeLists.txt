@@ -10,7 +10,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${yassi_nextgen_SOURCE_DIR}/09_lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${yassi_nextgen_SOURCE_DIR}/09_lib)
 
 set(CMAKE_CXX_STANDARD 17)
-project (yassi_nextgen)
+project (yassi)
 
 add_subdirectory(01_back_end)
 add_subdirectory(02_front_end)
@@ -26,4 +26,4 @@ set(CMAKE_BUILD_TYPE Debug)
 #set(CMAKE_BUILD_TYPE Release)
 
 enable_testing()
-add_test(NAME yassi_build_test COMMAND ${yassi_nextgen_SOURCE_DIR}/08_bin/yassi_test)
+add_test(NAME yassi_build_test COMMAND ${yassi_SOURCE_DIR}/08_bin/yassi_test)

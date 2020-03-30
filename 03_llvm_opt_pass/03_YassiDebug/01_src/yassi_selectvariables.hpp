@@ -1,7 +1,7 @@
-#ifndef FOREST_SELECTVARIABLES_HPP
-#define FOREST_SELECTVARIABLES_HPP
+#ifndef YASSI_SELECTVARIABLES_HPP
+#define YASSI_SELECTVARIABLES_HPP
 
-#ifdef FOREST_DEBUG_PASS
+#ifdef YASSI_DEBUG_PASS
     #include "yassi_basepass.hpp"
 #else 
     #include "../00_GenericPasses/01_src/yassi_basepass.hpp"
@@ -59,4 +59,4 @@ private:
 
 }
 
-#endif /* FOREST_SELECTVARIABLES_HPP */
+#endif /* YASSI_SELECTVARIABLES_HPP */
