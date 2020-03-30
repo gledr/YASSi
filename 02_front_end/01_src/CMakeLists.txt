@@ -1,6 +1,6 @@
 project(yassi_frontend)
 
-add_executable(yassi_nextgen
+add_executable(yassi
     main.cpp 
     ${yassi_utils_SOURCE_DIR}/yassi_baselogger.cpp
     ${yassi_utils_SOURCE_DIR}/yassi_baseutils.cpp
@@ -28,7 +28,7 @@ find_package(Boost REQUIRED COMPONENTS
     program_options
 )
 
-add_dependencies(yassi_nextgen
+add_dependencies(yassi
     build_sqlite3
     build_llvm
     llvm_pass
@@ -36,7 +36,7 @@ add_dependencies(yassi_nextgen
     build_jsoncpp
 )
 
-target_link_libraries(yassi_nextgen
+target_link_libraries(yassi
     ${Boost_LIBRARIES}
     rt
     pthread
@@ -45,7 +45,7 @@ target_link_libraries(yassi_nextgen
     sqlite3
 )
 
-target_include_directories(yassi_nextgen PUBLIC 
+target_include_directories(yassi PUBLIC 
     replay
     utils
     debug

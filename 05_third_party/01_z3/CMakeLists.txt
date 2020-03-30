@@ -1,3 +1,3 @@
 project (build_z3)
 
-add_custom_target(build_z3 WORKING_DIRECTORY ${yassi_nextgen_SOURCE_DIR}/05_third_party/01_z3 COMMAND ./install_z3.sh)
+add_custom_target(build_z3 WORKING_DIRECTORY ${yassi_root_SOURCE_DIR}/05_third_party/01_z3 COMMAND ./install_z3.sh)

@@ -76,6 +76,6 @@ target_include_directories(symbolic_backend PUBLIC
     ${yassi_utils_SOURCE_DIR}
     ${yassi_types_SOURCE_DIR}
     ${yassi_datastructures_SOURCE_DIR}
-    ${yassi_nextgen_SOURCE_DIR}/01_back_end/02_include
+    ${yassi_root_SOURCE_DIR}/01_back_end/02_include
 )
 

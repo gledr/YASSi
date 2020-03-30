@@ -21,7 +21,7 @@ target_link_libraries(yassi_test
     pthread
     jsoncpp
     dl
-    ${yassi_nextgen_SOURCE_DIR}/05_third_party/lib/libsqlite3.a
+    ${yassi_root_SOURCE_DIR}/05_third_party/lib/libsqlite3.a
 )
 
 target_include_directories(yassi_test PUBLIC

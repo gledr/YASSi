@@ -5,12 +5,12 @@ if(CCACHE_PROGRAM)
     set_property(GLOBAL PROPERTY RULE_LAUNCH_COMPILE "${CCACHE_PROGRAM}")
 endif()
 
-set(EXECUTABLE_OUTPUT_PATH ${yassi_nextgen_SOURCE_DIR}/08_bin)
-set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${yassi_nextgen_SOURCE_DIR}/09_lib)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${yassi_nextgen_SOURCE_DIR}/09_lib)
+set(EXECUTABLE_OUTPUT_PATH ${yassi_root_SOURCE_DIR}/08_bin)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${yassi_root_SOURCE_DIR}/09_lib)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${yassi_root_SOURCE_DIR}/09_lib)
 
 set(CMAKE_CXX_STANDARD 17)
-project (yassi)
+project (yassi_root)
 
 add_subdirectory(01_back_end)
 add_subdirectory(02_front_end)
@@ -26,4 +26,4 @@ set(CMAKE_BUILD_TYPE Debug)
 #set(CMAKE_BUILD_TYPE Release)
 
 enable_testing()
-add_test(NAME yassi_build_test COMMAND ${yassi_SOURCE_DIR}/08_bin/yassi_test)
+add_test(NAME yassi_build_test COMMAND ${yassi_root_SOURCE_DIR}/08_bin/yassi_test)

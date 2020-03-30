@@ -8,8 +8,8 @@
 
 namespace Yassi {
 
-std::string const GIT_HASH="77d7a9b80e34bff41dd62c9affec10ae076b7b45";
-std::string const GIT_DATE="2020-03-26";
+std::string const GIT_HASH="a327c02d0021883226e7ac81715c8ad3658aa408";
+std::string const GIT_DATE="2020-03-30";
 std::string const GIT_NAME="Sebastian Pointner";
 
 }

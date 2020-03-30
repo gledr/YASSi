@@ -54,7 +54,7 @@ Frontend::~Frontend()
  */
 void Frontend::init_frontend(int argc, char ** argv) 
 {
-    p_options_functions = new boost::program_options::options_description("Usage: yassi_nextgen [options]");
+    p_options_functions = new boost::program_options::options_description("Usage: yassi [options]");
     this->program_options(argc, argv); 
 
     if(p_vm.count("file")){
@@ -323,7 +323,7 @@ void Frontend::bash_completion_script()
     script << "}"                     << std::endl;
     
     script << std::endl;
-    script << "complete -F _yassi_nextgen  yassi_nextgen" << std::endl;
+    script << "complete -F _yassi  yassi" << std::endl;
     
    std::string current_path = boost::filesystem::current_path().string();
    std::fstream out_file(current_path + "/bash_completion_script.sh", std::ios::out);

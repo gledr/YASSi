@@ -17,7 +17,7 @@ TestEngine::TestEngine() {
     
     ini_file.close();
     
-    yassi_frontend_binary = base_path + "/08_bin/yassi_nextgen --quiet";
+    yassi_frontend_binary = base_path + "/08_bin/yassi --quiet";
     yassi_tmp_path = BaseUtils::get_tmp_folder();
 }
 

@@ -11,4 +11,4 @@ target_include_directories(testbench_datastructuretree PUBLIC
     ${yassi_utils_SOURCE_DIR}
 )
 
-set(EXECUTABLE_OUTPUT_PATH ${yassi_nextgen_SOURCE_DIR}/08_bin)
+set(EXECUTABLE_OUTPUT_PATH ${yassi_root_SOURCE_DIR}/08_bin)
